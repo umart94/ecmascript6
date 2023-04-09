@@ -1,0 +1,5 @@
+create a react project 
+
+create index.js file only
+
+run it refresh it it will work
